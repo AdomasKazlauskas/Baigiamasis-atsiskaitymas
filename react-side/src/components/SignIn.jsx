@@ -55,7 +55,7 @@ const SignIn = () => {
             <span>Welcome back</span>
           )}
         </h3>
-        <h1 className="section-title">Sign in to SendMeMoney</h1>
+        <h1 className="section-title">Sign in to OOPS</h1>
       </div>
       <div className="sign-rightside">
         <div className="rightside-top">
@@ -82,7 +82,7 @@ const SignIn = () => {
         </div>
         <div className="rightside-terms">
           <h4>
-            By continuing, you agree with the SendMeMoney{" "}
+            By continuing, you agree with the OOPS{" "}
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
               terms of service
             </a>{" "}

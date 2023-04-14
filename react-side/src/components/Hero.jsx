@@ -1,5 +1,5 @@
 import "../App.scss";
-import heroFoto from "../assets/heroFoto.png";
+import hero from "../assets/hero.png";
 import { paths } from "../constants/routing";
 import { useNavigate } from "react-router-dom";
 import { GlobalContext } from "../context/GlobalContext";
@@ -11,14 +11,14 @@ function Hero() {
   return (
     <div
       className="hero-background"
-      style={{ backgroundImage: `url(${heroFoto})` }}
+      style={{ backgroundImage: `url(${hero})` }}
     >
-      <h1 className="hero-text">AI took your job? We're here to help</h1>
+      <h1 className="hero-text">Too many boxes? We'll send them!</h1>
       <button
         className="hero-button"
         onClick={() => navigate(authName ? paths.ADDSTORY : paths.SIGNUP)}
       >
-        Tell Your Story
+        Add a box
       </button>
     </div>
   );

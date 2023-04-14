@@ -32,7 +32,7 @@ const AddStory = () => {
           onClick={() => navigate("/")}
         />
         <h3 className="section-name">It all begins here...</h3>
-        <h1 className="section-title">Tell your story</h1>
+        <h1 className="section-title">Add your box</h1>
       </div>
       <div className="sign-rightside">
         <div className="rightside-details-post">
@@ -54,17 +54,9 @@ const AddStory = () => {
           <input
             className="rightside-input"
             type="number"
-            placeholder="Required sum..."
+            placeholder="Weight of the box..."
             onChange={(e) => setTotalCash(e.target.value)}
             value={totalCash}
-          />
-          <textarea
-            className="rightside-input"
-            type="text"
-            placeholder="Your story..."
-            maxLength={200}
-            onChange={(e) => setText(e.target.value)}
-            value={text}
           />
           <button className="post-btn" onClick={handleCreateClick}>
             Post
@@ -72,7 +64,7 @@ const AddStory = () => {
         </div>
         <div className="rightside-terms-post">
           <h4>
-            By continuing, you agree with the SendMeMoney{" "}
+            By continuing, you agree with the OOPS{" "}
             <a href="/">terms of service</a> and have no way back.
           </h4>
         </div>

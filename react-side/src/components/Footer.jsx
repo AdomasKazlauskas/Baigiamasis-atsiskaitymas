@@ -12,7 +12,7 @@ function Footer() {
   return (
     <div className="footer">
       <div className="footer-terms">
-        <h4>&#169; 2023-2023 SendMeMoney</h4>
+        <h4>&#169; 2023-2023 OOPS</h4>
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Terms</a>
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Privacy</a>
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Legal</a>

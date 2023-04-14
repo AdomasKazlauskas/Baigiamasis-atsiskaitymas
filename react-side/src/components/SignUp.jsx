@@ -50,7 +50,7 @@ function SignUp() {
           alt="logo"
           onClick={() => navigate("/")}
         />
-        <h3 className="section-name">Welcome to SendMeMoney</h3>
+        <h3 className="section-name">Welcome to OOPS</h3>
         <h1 className="section-title">Create an account</h1>
       </div>
       <div className="sign-rightside">
@@ -83,7 +83,7 @@ function SignUp() {
         </div>
         <div className="rightside-terms">
           <h4>
-            By continuing, you agree with the SendMeMoney{" "}
+            By continuing, you agree with the OOPS{" "}
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
               terms of service
             </a>{" "}

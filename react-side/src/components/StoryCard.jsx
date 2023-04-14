@@ -20,66 +20,45 @@ const StoryCard = ({ card }) => {
   };
 
   return (
-    <div
-      className={`urgent-topics-card one ${
-        isStoryCompleted ? "completed" : ""
-      } `}
-    >
+    <div className="urgent-topics-card one">
       <div className="image-border">
         <img className="topics-image" src={card.image} alt="foto1" />
       </div>
       <div className="topic-row-two">
         <h4 className="topic-card-name">{card.title}</h4>
         <div className="topic-row-two-money">
-          <h4>
-            Raised: {card.raisedCash}€/{card.totalCash}€
-          </h4>
+          <h4>Weight: {card.totalCash}kg</h4>
         </div>
       </div>
-      {toggleDonors ? (
-        <div className="donors-list">
-          {card.donors.map(({ name, donation }) => (
-            <React.Fragment key={name}>
-              <div className="donors-list-item">{`${name}: ${donation} €`}</div>
-            </React.Fragment>
-          ))}
-        </div>
-      ) : (
-        <h4 className="topic-text">{card.text}</h4>
-      )}
 
       <div className="topic-row-four">
         <div className="topic-row-four-inputs">
-          <input
-            type="text"
-            placeholder="Your Name..."
-            onChange={(e) => setName(e.target.value)}
-            value={name}
-            disabled={isStoryCompleted}
-          />
-          <input
-            type="number"
-            placeholder="Your Donation..."
-            onChange={(e) => setDonation(e.target.value)}
-            value={donation}
-            disabled={isStoryCompleted}
-          />
+          <div className="checkbox">
+            Is it flammable?
+            <input
+              type="checkbox"
+              placeholder="Your Name..."
+              onChange={(e) => setName(e.target.value)}
+              disabled={isStoryCompleted}
+            />
+          </div>
+          <div className="checkbox">
+            Does it expire fast?
+            <input
+              type="checkbox"
+              placeholder="Your Name..."
+              onChange={(e) => setName(e.target.value)}
+              disabled={isStoryCompleted}
+            />
+          </div>
         </div>
         <div className="topic-row-four-buttons">
-          <button
-            onClick={handleDonateClick}
-            className="donation-button"
+          <input
+            type="number"
+            placeholder="Container number..."
+            onChange={(e) => setName(e.target.value)}
             disabled={isStoryCompleted}
-          >
-            Donate
-          </button>
-          <button
-            className="donation-button"
-            onClick={() => setToggelDonors(!toggleDonors)}
-            disabled={!card.donors.length}
-          >
-            Donors
-          </button>
+          />
         </div>
       </div>
     </div>

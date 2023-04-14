@@ -1,1 +1,62 @@
-[{"id":"100","title":"Help John","text":"He designed a program to automate tasks, unaware it would replace him. His skill became irrelevant and he was let go. As he left, he saw the robot perform his job flawlessly. He wondered if machines would take over the world one day.","image":"https://media.istockphoto.com/id/1344688395/photo/shot-of-an-exhausted-young-man-using-a-headset-in-a-modern-office.jpg?s=612x612&w=0&k=20&c=buJJFXqxgqbfc8CTxyEtvFtbllo72xuI5FMqKuo7mk8=","totalCash":3000,"raisedCash":503,"donors":[{"name":"Josh","donation":400},{"name":"rtt","donation":3},{"name":"Bilis","donation":100}]},{"id":"101","title":"Help Ian","text":"He wrote code that would help his company grow. But, a new AI system was cheaper and more efficient. His job was cut, and he felt betrayed by the technology he once loved. As he looked for a new job, he realized many others shared his fate.","image":"https://media.istockphoto.com/id/1282402790/photo/programmer-searching-for-solution.jpg?s=612x612&w=0&k=20&c=GJgd4yWY2-I74aOZ-6422yB_12G4-IVmKlhS5PTZFF4=","totalCash":1500,"raisedCash":1537,"donors":[{"name":"Josh","donation":200},{"name":"bob","donation":3},{"name":"ff","donation":4},{"name":"ty","donation":4},{"name":"qwe","donation":5},{"name":"Adomas","donation":221},{"name":"Peter","donation":1100}]},{"id":"102","title":"Help Tom","text":"He never thought his job would be replaced by a machine. But, as his company shifted to AI, he saw his skills became irrelevant. The robot didn't need a lunch break, a salary, or a coffee to function. He felt like a relic of the past.","image":"https://cdn-images-1.medium.com/v2/resize:fit:1200/1*DWI6QZnF2qBYNwAW_0zoXw.jpeg","totalCash":1500,"raisedCash":1500,"donors":[{"name":"Josh","donation":600},{"name":"ZX","donation":900}]},{"id":"103","title":"Help Ibrahim","text":"He developed the very algorithm that would eventually replace him. He saw the potential and created it anyway. When he lost his job, he realized he was ahead of his time. He decided to take the opportunity to learn new skills.","image":"https://media.istockphoto.com/id/1163541561/photo/close-up-back-rear-behind-photo-handsome-he-him-his-guy-stress-work-day-night-coder-html.jpg?s=612x612&w=0&k=20&c=ZvSCrbJMTik0yZral6pVg0ATLPitoS0v7z8ydUbTrIM=","totalCash":1800,"raisedCash":900,"donors":[{"name":"Josh","donation":900}]},{"id":"4b506427-c064-466e-b193-3f451b6db397","title":"Help Timothy","text":"He spent years perfecting his coding skills, but it wasn't enough. His job was taken over by an AI that could work around the clock. He wondered if humans could ever compete with machines. He decided to take a break from technology and explore the world.","image":"https://media.istockphoto.com/id/1363246495/photo/angry-office-worker-shouting-at-the-computer.jpg?s=612x612&w=0&k=20&c=n-fqA7YNtVFccdMI7t-tdn9-Ts5SiKe6oaMGBPDlSEY=","totalCash":"235","raisedCash":900,"donors":[{"name":"Josh","donation":900}]},{"id":"87dfd714-f798-4772-8d2a-f5e159c5064c","title":"Help Peter","text":"Nyehehehehehehe","image":"https://www.liveabout.com/thmb/APMQQFMHcHHnJyXnZntsFDu0RLo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/peter_2008_v2F_hires1-56a00f083df78cafda9fdcb6.jpg","totalCash":"25","raisedCash":25,"donors":[{"name":"Adomas","donation":25}]},{"id":"0fea536f-4a16-4f4c-90bf-9057b426ea90","title":"Help Ivan","text":"He was tasked with teaching the AI that would eventually replace him. As he worked, he saw his job becoming more automated. He felt like he was training his own replacement. He wondered if he was helping to create a future where humans were no longer needed.","image":"https://st3.depositphotos.com/3450477/13432/i/450/depositphotos_134326822-stock-photo-freelancer-programmer-falling-his-face.jpg","totalCash":"123112","raisedCash":100,"donors":[{"name":"Adomas","donation":100}]},{"id":"0397239a-8077-4e1b-b92e-3c78636cb916","title":"Help Luke","text":"He programmed his own obsolescence. His code was so good, it could replace him. As he watched his job disappear, he knew he had to adapt. He learned new languages and found a new passion. He hoped to stay ahead of the curve next time.","image":"https://pbs.twimg.com/media/CwGPAYuUsAAa98n.jpg","totalCash":"450","raisedCash":450,"donors":[{"name":"Adomas","donation":10},{"name":"Adomas","donation":25},{"name":"Adomas","donation":415}]},{"id":"5ce42717-bb58-4088-8d8e-7d025a77f34f","title":"asd","text":"asdasd","image":"https://img.freepik.com/free-photo/troubled-displeased-bearded-man-frowns-face-feels-sad-distressed-upset-being-bored-sitting-quarantine-unhappy-miss-good-chance-dressed-casually-isolated-yellow-wall_273609-37534.jpg","totalCash":"100","raisedCash":0,"donors":[]}]
+[
+  {
+    "id": "100",
+    "title": "Box-o-Plenty",
+    "text": "He designed a program to automate tasks, unaware it would replace him. His skill became irrelevant and he was let go. As he left, he saw the robot perform his job flawlessly. He wondered if machines would take over the world one day.",
+    "image": "https://media.istockphoto.com/id/183027527/photo/cardboard-boxes.jpg?s=612x612&w=0&k=20&c=ITz_TX3v06wpsJ5DXGCymUa5KZvOFyjuPvWJYA7-Aug=",
+    "totalCash": 20,
+    "raisedCash": 0,
+    "donors": [
+      { "name": "Josh", "donation": 400 },
+      { "name": "rtt", "donation": 3 },
+      { "name": "Bilis", "donation": 100 }
+    ]
+  },
+  {
+    "id": "101",
+    "title": "Phone",
+    "text": "He wrote code that would help his company grow. But, a new AI system was cheaper and more efficient. His job was cut, and he felt betrayed by the technology he once loved. As he looked for a new job, he realized many others shared his fate.",
+    "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-hero-220907-geo.jpg.og.jpg?202303302130",
+    "totalCash": 5,
+    "raisedCash": 0,
+    "donors": [
+      { "name": "Josh", "donation": 200 },
+      { "name": "bob", "donation": 3 },
+      { "name": "ff", "donation": 4 },
+      { "name": "ty", "donation": 4 },
+      { "name": "qwe", "donation": 5 },
+      { "name": "Adomas", "donation": 221 },
+      { "name": "Peter", "donation": 1100 }
+    ]
+  },
+  {
+    "id": "102",
+    "title": "Wood",
+    "text": "He never thought his job would be replaced by a machine. But, as his company shifted to AI, he saw his skills became irrelevant. The robot didn't need a lunch break, a salary, or a coffee to function. He felt like a relic of the past.",
+    "image": "https://st.depositphotos.com/1968353/2535/i/600/depositphotos_25357093-stock-photo-stack-of-wood-planks.jpg",
+    "totalCash": 200,
+    "raisedCash": 0,
+    "donors": [
+      { "name": "Josh", "donation": 600 },
+      { "name": "ZX", "donation": 900 }
+    ]
+  },
+  {
+    "id": "103",
+    "title": "Glass",
+    "text": "He developed the very algorithm that would eventually replace him. He saw the potential and created it anyway. When he lost his job, he realized he was ahead of his time. He decided to take the opportunity to learn new skills.",
+    "image": "https://media.istockphoto.com/id/1036248782/photo/water-is-poured-into-a-drinking-glass-isolated-on-a-white-background-with-copy-space.jpg?s=612x612&w=0&k=20&c=LL89fJ_TVyJ6D_smGUtMLyBzrr6MV_kTS4Tj11cKhcw=",
+    "totalCash": 15,
+    "raisedCash": 0,
+    "donors": [{ "name": "Josh", "donation": 900 }]
+  },
+  {
+    "id": "aad54f07-d2d5-4e80-bdd7-e4e596c57df0",
+    "title": "Bricks",
+    "text": "",
+    "image": "https://media.istockphoto.com/id/606651988/photo/stack-of-red-bricks.jpg?s=612x612&w=0&k=20&c=9w8pS1ws26rt0mnib3MpaebTx2NPey1ibsbFEMxgKrI=",
+    "totalCash": "250",
+    "raisedCash": 0,
+    "donors": []
+  }
+]

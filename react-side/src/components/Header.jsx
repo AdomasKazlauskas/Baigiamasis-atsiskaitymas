@@ -14,7 +14,6 @@ function Header() {
     navigate("/");
   };
 
-  // addStory tik registrutiems prieinamas!;
   return (
     <div id="story-carousel" className="header-container">
       <div className="header-links left">
