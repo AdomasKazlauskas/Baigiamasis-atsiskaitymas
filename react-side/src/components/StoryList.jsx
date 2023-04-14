@@ -8,8 +8,8 @@ const StoryList = () => {
 
   return (
     <ListContainer
-      sectionName="Happening near You"
-      sectionTitle="Help your community"
+      sectionName="Shipments"
+      sectionTitle="Put boxes into containers"
       cards={cards}
     />
   );
